@@ -1,0 +1,6 @@
+{
+  "name": "Auto Cut Panel Manga",
+  "description": "Otomatis memotong halaman manga menjadi panel individual dengan deteksi cerdas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
